@@ -1,3 +1,3 @@
-report z_provagit
+report z_provagit.
 
 write : 'ciao'.
